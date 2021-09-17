@@ -2,7 +2,7 @@
 // @name         onekey
 // @namespace    com.single.onekey
 // @version      0.1
-// @description  onekey
+// @description  一键托管
 // @author       single
 // @match        http://tool-sku-test.lingmou.ai:8090/sku/audit*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
