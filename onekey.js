@@ -1,14 +1,13 @@
 // ==UserScript==
-// @name         hello-world
-// @namespace    com.single.helloworld
+// @name         onekey
+// @namespace    com.single.onekey
 // @version      0.1
-// @description  helloworld
+// @description  onekey
 // @author       single
 // @match        http://tool-sku-test.lingmou.ai:8090/sku/audit*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @require    http://code.jquery.com/jquery-1.11.0.min.js
-// @require    https://requirejs.org/docs/release/2.3.5/minified/require.js
 // var sleep = require('sleep');
 // ==/UserScript==
 function sleep(time){
